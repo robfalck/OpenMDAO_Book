@@ -20,6 +20,12 @@
     sections:
     - file: examples/paraboloid
 
+- part: Basic User Guide
+  chapters:
+  - file: basic_user_guide/basic_user_guide
+    sections:
+    - file: basic_user_guide/component_types
+
 #- part: Basic User Guide
 #  chapters:
 #  - file: start/overview

@@ -17,6 +17,14 @@
   chapters:
   - file: getting_started/getting_started
 
+- part: Basic User Guide
+  chapters:
+  - file: basic_guide/index
+#      sections:
+#        - file: examples/paraboloid/paraboloid
+#        - file: examples/betz_limit/betz_limit
+#        - file: examples/keplers_equation/keplers_equation
+
 - part: Examples
   chapters:
   - file: examples/examples
@@ -24,6 +32,10 @@
     - file: examples/paraboloid/paraboloid
     - file: examples/betz_limit/betz_limit
     - file: examples/keplers_equation/keplers_equation
+
+- part: Features
+  chapters:
+  - file: features/index
 
 #- part: Basic User Guide
 #  chapters:
